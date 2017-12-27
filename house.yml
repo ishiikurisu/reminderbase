@@ -1,0 +1,4 @@
+---
+build:
+    commands:
+    - go build github.com/ishiikurisu/reminderbase/main
