@@ -4,4 +4,4 @@ build:
     - mkdir src/github.com/ishiikurisu/reminderbase/data/reminderbase
     - go test github.com/ishiikurisu/reminderbase
     - go build github.com/ishiikurisu/reminderbase/main
-    - rm -rf src/github.com/ishiikurisu/reminderbase/data
+    - rm -rf src/github.com/ishiikurisu/reminderbase/data/reminderbase
