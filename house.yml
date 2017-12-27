@@ -1,4 +1,5 @@
 ---
 build:
     commands:
+    - go test github.com/ishiikurisu/reminderbase
     - go build github.com/ishiikurisu/reminderbase/main
